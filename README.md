@@ -5,5 +5,7 @@
 ### Week 02
 I need to dive deeper into the material so I can turn in this week's assignment. My comprehension of big O notation is still very low.
 
+I just completed the first draft of the assignment.. Yikes. The examples from the article don't have any context, and its hard to Google. I'm also having trouble uploading my C# project to GitHub from my Mac *without just uploading the zip*. Looks like I have some studying to do..
+
 ### Week 01
 This was just a setup week. No progress to report!
