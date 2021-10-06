@@ -2,6 +2,9 @@
 
 ## *Folders in this repo are organized by week number. All the assignments for a given week can be found in the associated folder. My progress on assignments are documented below, and the most recent week will be at the top!*
 
+### Week 04
+This week I aced my quiz and got to get started on a free choice assignment! Details about what I chose are in a README in the Week04 folder.
+
 ### Week 03
 I understand big O notation much better than I did last week, thanks to my breakout group and our in-class assignment. I feel like we did more than we had to, but that ended up being alright, it was helpful to hear my group think through the higher level problem solving. I aced the quiz, I should be in good shape for next week..
 
