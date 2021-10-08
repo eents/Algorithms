@@ -2,6 +2,9 @@
 
 ## *Folders in this repo are organized by week number. All the assignments for a given week can be found in the associated folder. My progress on assignments are documented below, and the most recent week will be at the top!*
 
+### Week 05
+I finished the Fisher-Yates Shuffle assignment and the quizzes that were unlocked. Looking forward to iterating on my free choice assignment!
+
 ### Week 04
 This week I aced my quiz and got to get started on a free choice assignment! Details about what I chose are in a README in the Week04 folder.
 
